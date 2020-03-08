@@ -6,3 +6,8 @@
 * Günün sonunda bu projede bir kafenin gelirini, giderini, kimlere ne kadar satış yaptığını ve yöneticinin depodaki ürün stoklarını kontrol edebildiği bir programdır.
 
 * Programın ekran görüntüleri repo içerisindedir.
+
+---
+
+* Visual Studio / C# Windows Form Application
+* Microsoft SQL Server
