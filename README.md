@@ -9,5 +9,6 @@
 
 ---
 
-* Visual Studio / C# Windows Form Application
-* Microsoft SQL Server
+Visual Studio / C# Windows Form Application
+
+Microsoft SQL Server
